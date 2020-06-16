@@ -4,8 +4,8 @@ var greet = function (friend) {
             return 'Hello, Serval!';
         case 'caracal':
             return 'Hello, Caracal!';
-        // case 'cheetah':
-        //   return 'Hello, Cheetah!';
+        case 'cheetah':
+            return 'Hello, Cheetah!';
         default:
             var check = friend;
     }
